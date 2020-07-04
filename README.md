@@ -11,3 +11,7 @@
 <img src="/images/registration.JPG">
 
 
+
+# logged in page
+
+<img src="/images/logged.JPG">
